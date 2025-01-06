@@ -1,5 +1,7 @@
 let a = 10;
 let b = 5;
+let c=19;
+let d=20;
 let sum = a + b;
 let difference = a - b;
 let product = a * b;
