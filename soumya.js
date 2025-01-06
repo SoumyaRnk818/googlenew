@@ -1,10 +1,4 @@
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
-console.log("Soumya! Welcome");
+
+for (let i = 0; i < 10; i++) {
+  console.log("Soumya! Welcome");
+}
